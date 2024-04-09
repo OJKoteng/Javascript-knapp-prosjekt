@@ -7,6 +7,8 @@ let number = 10;
 // === sjekker innhold og datatype 
 // < mindre enn / less than 
 // > større enn / more than 
+// & og / and 
+// eller / either 
 
 
 if (number === 10) {
